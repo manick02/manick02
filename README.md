@@ -1,5 +1,5 @@
 
-🔭 I’m currently Interested in Workflows and Simulation of Distributed Systems
+Currently Interested in Workflows and Simulation of Distributed Systems
 
 
 <!--
